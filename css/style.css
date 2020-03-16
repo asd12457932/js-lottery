@@ -1,0 +1,6 @@
+*{
+    padding: 0;
+    margin: 0;
+    /*box-sizing可以看個人使用可以看個人使用*/
+    box-sizing: border-box;
+}
